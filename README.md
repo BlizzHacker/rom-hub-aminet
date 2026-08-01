@@ -1,5 +1,7 @@
 # Aminet plugin for ROM Hub
 
+> Part of **[Cartridge](https://github.com/BlizzHacker/rom-hub/blob/master/BRAND.md)** by MoveWeight — a **[ROMarr](https://github.com/BlizzHacker/romarr)** / ROM Hub plugin. Unofficial; not affiliated with RomM, Gaseous or Retrom.
+
 Implements the RPP v1 `search` and `importer` capabilities against
 `https://aminet.net` — the Amiga world's software archive, 85,449 packages
 deep, of which the `game/` tree holds about 6,700.
