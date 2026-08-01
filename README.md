@@ -153,3 +153,15 @@ Everything lands in the `Aminet` RomM collection by default.
   `mos.aminet.net` and the rest are hostnames an operator picks on the
   website, not redirect targets. Downloads from `aminet.net` answer 200
   directly with zero redirects.
+
+---
+
+## Seen working
+
+Games this plugin imported are in the library below, filed in a collection named after it. Nothing in that picture was hand-placed.
+
+![RomM populated by ROM Hub plugins](https://raw.githubusercontent.com/BlizzHacker/rom-hub/master/docs/screenshots/romm.png)
+
+Full showcase — all three backends (RomM, Gaseous, Retrom), every command transcript, and an honest account of what the pictures do *not* show: **[https://github.com/BlizzHacker/rom-hub/blob/master/docs/SHOWCASE.md](https://github.com/BlizzHacker/rom-hub/blob/master/docs/SHOWCASE.md)**
+
+Part of [ROM Hub](https://github.com/BlizzHacker/rom-hub) — install with `rom-hub plugin install aminet`.
