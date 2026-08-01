@@ -1,5 +1,8 @@
 # Aminet plugin for ROM Hub
 
+A project of the [Move Weight Foundation](https://foundation.moveweight.com), an
+Oklahoma non-profit corporation with 501(c)(3) status pending.
+
 Implements the RPP v1 `search` and `importer` capabilities against
 `https://aminet.net` — the Amiga world's software archive, 85,449 packages
 deep, of which the `game/` tree holds about 6,700.
